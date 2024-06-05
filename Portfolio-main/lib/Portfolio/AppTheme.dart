@@ -7,7 +7,7 @@ class MyAppTheme {
     scaffoldBackgroundColor: Colors.white,
     appBarTheme: const AppBarTheme(
       color: Colors.blue,
-      elevation: 0,
+       elevation: 0,
       // brightness: Brightness.light,
       iconTheme: IconThemeData(color: Colors.white),
     ),
